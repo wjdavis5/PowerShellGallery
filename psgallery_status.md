@@ -1,6 +1,6 @@
 
-PowerShell Gallery Status
-=========================
+PowerShell Gallery Status 
+==========================
 ### The [PowerShell Gallery](https://powershellgallery.com) is currently:  __Operating with Statistic Errors__
 
 ### 10/15/2020 - PowerShellGallery.com may temporarily experience latency and/or low availability 
